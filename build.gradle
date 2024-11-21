@@ -118,6 +118,7 @@ android {
     }
 
     compileSdkVersion 29
+    buildtoolsVersion 29.0.3
 
     defaultConfig {
         minSdkVersion 22
